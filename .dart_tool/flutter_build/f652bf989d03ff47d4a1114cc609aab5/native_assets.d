@@ -1,0 +1,1 @@
+ /Users/MACBOOK/Desktop/mobile_test/.dart_tool/flutter_build/f652bf989d03ff47d4a1114cc609aab5/native_assets.yaml: 
